@@ -1,0 +1,21 @@
+{
+  "name": "express-coupang",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@types/cheerio": "^0.22.23",
+    "@types/dotenv": "^8.2.0",
+    "@types/express": "^4.17.11",
+    "@types/node": "^14.14.25",
+    "agentkeepalive": "^4.1.4",
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "path": "^0.12.7",
+    "playwright": "^1.8.0",
+    "ts-node": "^9.1.1",
+    "typescript": "^4.1.4"
+  }
+}
